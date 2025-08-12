@@ -43,7 +43,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-# --- Global Console Objects for Clean Output Separation ---
+# --- Global Console Objects for Clean Output Separation --
 # Data goes to stdout (so it can be redirected, e.g., > out.txt)
 console = Console()
 # Logs and status messages go to stderr (so they appear on screen)
