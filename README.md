@@ -170,4 +170,4 @@ python fetcher.py --input-file big_list.txt --mode links --concurrency 20 --quie
 
 ## License
 
-MIT License © 2024
+MIT License © 2025
